@@ -1,0 +1,127 @@
+.post{
+  /* display: flex;
+  flex-direction: row; */
+   width: 550px; 
+  margin-top: 10px;
+  margin-bottom: 50px;
+left: 100px;
+}
+
+.post_header{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.post_headerAuthor{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bolder;
+}
+
+.post_headerAuthor >span{
+    color: gray;
+    font-size: 15px;
+}
+
+.post_image > img{
+width: 100%;
+border-radius: 10px;
+border: 0.5px solid rgba(128, 128, 128, 0.6);
+}
+
+.post_footer{
+width: 100%;
+}
+
+.post_footerIcons{
+  width: 100%;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+}
+
+.post_iconsMain{
+display: flex;
+flex-direction: row;
+}
+
+.postIcon{
+    padding: 5px;
+    font-size: 25px;
+}
+
+.postIcon :hover{
+    cursor: pointer;
+}
+
+
+.comment-input-container {
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+    border-top: 1px solid #ddd;
+    width: 550px;
+  }
+  
+  .comment-textarea {
+    padding: 2px;
+    font-size: 18px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    width: 500px;
+    resize: none;
+  }
+  
+  .add-comment-button {
+    background-color: #3897f0;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .add-comment-button:hover {
+    background-color: #2680c2;
+  }
+
+
+  .commentInputSection{
+
+/* border-radius: 10px;
+border: 0.5px solid rgba(128, 128, 128, 0.6);  */
+
+  }
+
+
+  .post_commentBox{
+    display: flex;
+    margin-top: 5px;
+    width: 550px;
+    border: 0.5px solid rgba(128, 128, 128, 0.6); 
+  }
+
+  .postInput{
+    background: lightgray;
+    flex: 1;
+    border: none;
+    border: 1px solid lightgray;
+  }
+
+  .post_button{
+    flex: 0;
+    border: none;
+    border: 1px solid lightgray;
+    color: #6082a3;
+    border-color: transparent;
+    background-color: grey;
+  }
+
