@@ -82,6 +82,7 @@ const MyComponent = () => {
       {user ? (
         <>
           <Button
+            style={{ fontSize: "12px" }}
             variant="contained"
             onClick={() => {
               auth.signOut();
@@ -93,6 +94,7 @@ const MyComponent = () => {
       ) : (
         <>
           <Button
+            style={{ fontSize: "8px" }}
             variant="contained"
             onClick={() => {
               setOpenSignin(true);
@@ -102,6 +104,7 @@ const MyComponent = () => {
           </Button>
           <span>&nbsp; &nbsp;</span>
           <Button
+            style={{ fontSize: "8px" }}
             variant="contained"
             onClick={() => {
               setOpenSignup(true);
@@ -174,6 +177,7 @@ const MyComponent = () => {
                 <br />
 
                 <Button
+                  style={{ fontSize: "8px" }}
                   variant="contained"
                   type="submit"
                   onClick={handleSignUp}
@@ -240,7 +244,12 @@ const MyComponent = () => {
                 />
                 <br />
 
-                <Button variant="contained" type="submit" onClick={Login}>
+                <Button
+                  style={{ fontSize: "8px" }}
+                  variant="contained"
+                  type="submit"
+                  onClick={Login}
+                >
                   Login
                 </Button>
                 <Button color="secondary" type="submit">

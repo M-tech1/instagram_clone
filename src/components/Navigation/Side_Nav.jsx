@@ -52,10 +52,10 @@ function Side_Nav() {
           <span>Home</span>
         </button>
 
-        <button className="sidenav_btn">
+        {/* <button className="sidenav_btn">
           <SearchIcon className="icon" />
           <span>Search</span>
-        </button>
+        </button> */}
 
         <button className="sidenav_btn">
           <ExploreIcon className="icon" />
@@ -87,14 +87,15 @@ function Side_Nav() {
         style={{
           display: "flex",
           flexDirection: "row",
-          padding: "20px",
-          paddingLeft: "40px",
+          padding: "2px",
+          paddingLeft: "20px",
+          paddingTop: "20px",
           alignItems: "center",
           justifyContent: "center",
         }}
       >
-        <Avatar style={{ padding: "5px" }}></Avatar>
-        {<strong style={{ padding: "10px" }}>{user?.displayName}</strong>}
+        <Avatar></Avatar>
+        {<strong style={{ padding: "5px" }}>{user?.displayName}</strong>}
       </div>
 
       <div className="sidenav_more" onCanPlay={more}>
