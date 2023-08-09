@@ -88,7 +88,7 @@ function Suggestion({ username }) {
         <div className="suggest_username">
           <div className="username_left">
             <span className="avatar">
-              <Avatar src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/353845503_6398698033531870_8658493709877844426_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHnn59Q909TG9LFhOJhS1wAup0NlYMYNeu6nQ2Vgxg169w5gurfHpdey_PPihGc3DLCpm_1owksDoAbp4FdVQYQ&_nc_ohc=Rv7-SxU7WWIAX-dDNnq&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfDucEho-LK6UPfHl0AfkWU8z0gCfcRBPNUJ2MgXnzqCQQ&oe=64D36442"></Avatar>
+              <Avatar src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/355479816_6425528277515512_1498960444584212062_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEsZR-AQZey-IIXsqaeELknGAjIB4ArbcEYCMgHgCttwfvMnYPHKvPs_f_oBw7lARqofskyYax2SPV6JLMSaUrf&_nc_ohc=hKbbv9Aq2coAX_TTEIg&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfBaTVJyBgpMIb911n9GbORV9FVrRennmTZba-zoBqdwHw&oe=64D7AEE6"></Avatar>
             </span>
 
             <div className="username_info">
@@ -113,11 +113,11 @@ function Suggestion({ username }) {
         <div className="suggest_username">
           <div className="username_left">
             <span className="avatar">
-              <Avatar src="https://scontent.fabv2-2.fna.fbcdn.net/v/t39.30808-6/286704048_188079730213659_8184226727473629951_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE8noCt3KKiIVsIGn324qWiUoNhFbDhLolSg2EVsOEuiRodu3R5x9HcJ202qxN2A9K1GkccxBPqgG_2x0x9ZXh5&_nc_ohc=OKCRdU9PGOEAX-jml50&_nc_zt=23&_nc_ht=scontent.fabv2-2.fna&oh=00_AfDdoJvQ7UU8TfqQoD5Y8W9lgkGYafckCWbphTaTven87A&oe=64D2A9FC"></Avatar>
+              <Avatar src="https://scontent.fabv2-2.fna.fbcdn.net/v/t39.30808-6/269602191_1132326264238827_505995101995176274_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=be3454&_nc_eui2=AeGSVWiJIMTTZZycCwTGJm9Y6UfhM46S7FfpR-EzjpLsVyBEEU5nIlY34yVLPycro2oXBXbplgK0_l5Kj-6Ya3xj&_nc_ohc=UUrvLYzuu_4AX_tDn_7&_nc_zt=23&_nc_ht=scontent.fabv2-2.fna&oh=00_AfB6dTKMBYRvspFerhvXCQ1p9UUUXZ_gbgJEPxZoEymToA&oe=64D8AEB4"></Avatar>
             </span>
 
             <div className="username_info">
-              <span className="username"> Mrs Helen</span>
+              <span className="username">Chioma</span>
               <span className="relation"> new to IG</span>
             </div>
           </div>
@@ -137,11 +137,11 @@ function Suggestion({ username }) {
         <div className="suggest_username">
           <div className="username_left">
             <span className="avatar">
-              <Avatar src="https://scontent.fabv2-2.fna.fbcdn.net/v/t39.30808-6/350638855_222051830599652_7006649250257161348_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGcu-eHY0X5YSO8-6f6c5wehLSFDEcAgbSEtIUMRwCBtLutMlEMWzCaGtaQmGljpjjQ1-psQ54Sj2JfcONnj9q_&_nc_ohc=QHXhErpQ6nIAX-Lfe-L&_nc_zt=23&_nc_ht=scontent.fabv2-2.fna&oh=00_AfAONOn6JaT0Ra6f72VhjYqzPa6BnUpZjGoCrAoSkGzUCw&oe=64D39AB2"></Avatar>
+              <Avatar src="https://www.bellanaija.com/wp-content/uploads/2014/06/Natural-Hair-Bellanaija-June2014.jpg"></Avatar>
             </span>
 
             <div className="username_info">
-              <span className="username"> Mr David .Y</span>
+              <span className="username"> Charity Beauty</span>
               <span className="relation"> IG since 2002</span>
             </div>
           </div>

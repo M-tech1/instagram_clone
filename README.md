@@ -67,7 +67,7 @@ Quite a number of installations was made on the project:
 
 ## Usage
 
-Visit the url: https://instagram-clone-kbdu53jg4-fxbot.vercel.app/
+Visit the url: https://instagram-clone-396ph7cb6-fxbot.vercel.app/
 
 Start application by following the url provided here:
 => login or create and account
@@ -75,9 +75,9 @@ Start application by following the url provided here:
 => Upload user profile avatar
 => Continue with other functionality as available in the project
 
-******\******* Project Link ********\*\*********
+**\*\***\***\*\*** Project Link **\*\*\*\***\*\***\*\*\*\***
 
-https://instagram-clone-kbdu53jg4-fxbot.vercel.app/
+https://instagram-clone-396ph7cb6-fxbot.vercel.app/
 
 ## Challenges
 
